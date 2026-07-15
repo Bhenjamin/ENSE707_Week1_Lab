@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ENSE707_Week1_Lab/1.0.0": {
+        "runtime": {
+          "ENSE707_Week1_Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ENSE707_Week1_Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
