@@ -8,4 +8,9 @@
     <RootNamespace>ENSE707_Week1_Lab</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MSTest.TestAdapter" Version="4.3.2" />
+    <PackageReference Include="MSTest.TestFramework" Version="4.3.2" />
+  </ItemGroup>
+
 </Project>
