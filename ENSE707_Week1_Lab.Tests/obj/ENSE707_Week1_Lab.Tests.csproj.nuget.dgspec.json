@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab.Tests/ENSE707_Week1_Lab.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab.Tests/ENSE707_Week1_Lab.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab.Tests/ENSE707_Week1_Lab.Tests.csproj",
+        "projectName": "ENSE707_Week1_Lab.Tests",
+        "projectPath": "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab.Tests/ENSE707_Week1_Lab.Tests.csproj",
+        "packagesPath": "/home/bhenjamin/.nuget/packages/",
+        "outputPath": "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bhenjamin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/ENSE707_Week1_Lab.csproj": {
+                "projectPath": "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/ENSE707_Week1_Lab.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.128/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/ENSE707_Week1_Lab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/ENSE707_Week1_Lab.csproj",
+        "projectName": "ENSE707_Week1_Lab",
+        "projectPath": "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/ENSE707_Week1_Lab.csproj",
+        "packagesPath": "/home/bhenjamin/.nuget/packages/",
+        "outputPath": "/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bhenjamin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.128/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

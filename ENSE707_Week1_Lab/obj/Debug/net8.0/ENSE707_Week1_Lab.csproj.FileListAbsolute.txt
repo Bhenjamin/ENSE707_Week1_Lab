@@ -1,0 +1,15 @@
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/bin/Debug/net8.0/ENSE707_Week1_Lab
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/bin/Debug/net8.0/ENSE707_Week1_Lab.deps.json
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/bin/Debug/net8.0/ENSE707_Week1_Lab.runtimeconfig.json
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/bin/Debug/net8.0/ENSE707_Week1_Lab.dll
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/bin/Debug/net8.0/ENSE707_Week1_Lab.pdb
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/ENSE707_Week1_Lab.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/ENSE707_Week1_Lab.AssemblyInfoInputs.cache
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/ENSE707_Week1_Lab.AssemblyInfo.cs
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/ENSE707_Week1_Lab.csproj.CoreCompileInputs.cache
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/ENSE707_Week1_Lab.sourcelink.json
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/ENSE707_Week1_Lab.dll
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/refint/ENSE707_Week1_Lab.dll
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/ENSE707_Week1_Lab.pdb
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/ENSE707_Week1_Lab.genruntimeconfig.cache
+/home/bhenjamin/Documents/Software-QA/ENSE707_Week1_Lab/ENSE707_Week1_Lab/obj/Debug/net8.0/ref/ENSE707_Week1_Lab.dll
